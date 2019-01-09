@@ -8,6 +8,6 @@ they were both placed in abandoned blacksmith furnaces within the eveleigh train
 
 ![Install](img/install-shot.jpg)
 
-![Animation](https://media.giphy.com/media/40cxxUc7sTmBVmmjTX/source.mp4)
+![Animation](https://media.giphy.com/media/40cxxUc7sTmBVmmjTX/giphy.gif)
 
 ![Preinstall](img/preinstall.jpg)
